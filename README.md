@@ -2,9 +2,8 @@
 
 ## I'm a Software Developer and Machine Learning Researcher!
 - 🔭 I’m currently working on [ZuluTrade][zulu] as web developer!
-- 👯 I’m currently working also on my Thesis Project!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Get graduated!
+- 🥅 2021 Goals: Get graduated! ✔️
 
 ### Connect with me:
 
