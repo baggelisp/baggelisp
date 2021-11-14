@@ -1,9 +1,10 @@
 ### Hi there, I'm Vangelis! 👋
 
-## I'm a Software Developer and Machine Learning Researcher!
-- 🔭 I’m currently working on [ZuluTrade][zulu] as web developer!
+## I'm a Software Developer!
+- 🔭 I’m currently open to work!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Get graduated! ✔️
+- 🥅 2022 Goals: Build Blockchain Decentralized Apps (DApps) on Ethereum!
 
 ### Connect with me:
 
