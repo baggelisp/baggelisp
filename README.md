@@ -3,7 +3,7 @@
 ## I'm a Software Developer!
 - 🔭 I’m currently open to work!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Get graduated! ✔️
+- 🏴󠁳󠁩󠀱󠀵󠀸󠁿 2021 Goals: Get graduated! ✔️
 - 🥅 2022 Goals: Build Blockchain Decentralized Apps (DApps) on Ethereum!
 
 ### Connect with me:
